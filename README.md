@@ -64,5 +64,128 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-foxnose-net is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://foxnose.net/
+foxnose-net is a technology company that provides innovative networking solutions and API services. Founded with a focus on secure, scalable, and developer-friendly interfaces, the company offers a suite of products ranging from API gateways to data integration tools. Their platform emphasizes robust security, comprehensive documentation, and community support, aiming to simplify API consumption and management for enterprises of all sizes. Through continuous development and open collaboration, foxnose-net strives to empower developers to build, deploy, and monitor APIs efficiently and reliably.
+
+**Areas:** Company · API · Networking · Security · Integration
+
+## foxnose-net on APIs.io
+
+Everything profiled for foxnose-net is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/foxnose-net/](https://apis.io/providers/foxnose-net/)** — or go straight to one of the APIs or properties below.
+
+### APIs (3)
+
+- [Management API](https://apis.io/apis/foxnose-net/management-api-2/) — Management API provides administrative endpoints for managing resources, limits, and collections.
+- [foxnose-net flux API](https://apis.io/apis/foxnose-net/flux-api/) — foxnose-net flux API as documented publicly: 4 operations. Contract generated from the documentation by API Evangelist (2026-10-30); not the provider's own…
+- [foxnose-net management API](https://apis.io/apis/foxnose-net/management-api/) — foxnose-net management API as documented publicly: 18 operations. Contract generated from the documentation by API Evangelist (2026-10-30); not the…
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### JSON Schema (9)
+
+The data models the API reads and writes.
+
+- [GetCommerceCatalogItems9D2Hx6Qpzml0Response](https://apis.io/schemas/foxnose-net/foxnose-net-get-commerce-catalog-items9-d2-hx6-qpzml0-response/)
+- [GetV1EnvApiApiCurlResponse](https://apis.io/schemas/foxnose-net/foxnose-net-get-v1-env-api-api-curl-response/)
+- [GetV17C9H4PwuApiDw2Qc5QrwxuzResponse](https://apis.io/schemas/foxnose-net/foxnose-net-get-v17-c9-h4-pwu-api-dw2-qc5-qrwxuz-response/)
+- [PostBlogMcpRequest](https://apis.io/schemas/foxnose-net/foxnose-net-post-blog-mcp-request/)
+- [PostBlogMcpResponse](https://apis.io/schemas/foxnose-net/foxnose-net-post-blog-mcp-response/)
+- [PostV1EnvApiApiCollectionsCurlRequest](https://apis.io/schemas/foxnose-net/foxnose-net-post-v1-env-api-api-collections-curl-request/)
+- [PutV1EnvApiApiCurlRequest](https://apis.io/schemas/foxnose-net/foxnose-net-put-v1-env-api-api-curl-request/)
+- [PutV17C9H4PwuApiDw2Qc5QrwxuzCollectionsMk8Np3TyvbcxRequest](https://apis.io/schemas/foxnose-net/foxnose-net-put-v17-c9-h4-pwu-api-dw2-qc5-qrwxuz-collections-mk8-np3-tyvbcx-request/)
+- [PutV17C9H4PwuApiResponse](https://apis.io/schemas/foxnose-net/foxnose-net-put-v17-c9-h4-pwu-api-response/)
+
+#### JSON-LD (1)
+
+Linked-data contexts for the provider's vocabulary.
+
+- [Foxnose Net Context](https://apis.io/jsonld/foxnose-net/foxnose-net-context/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [foxnose-net API Rules](https://apis.io/rules/foxnose-net/foxnose-net-rules/)
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Foxnose Net Domain Security](https://apis.io/security/foxnose-net/foxnose-net-domain-security/)
+- [Foxnose Net Trust Center](https://apis.io/security/foxnose-net/foxnose-net-trust-center/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [Foxnose Net Plans Pricing](https://apis.io/plans/foxnose-net/foxnose-net-plans-pricing/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://foxnose.net/)
+- [Documentation](https://foxnose.net/docs)
+- [Getting started](https://foxnose.net/docs/quick-start)
+- [Pricing](https://foxnose.net/pricing)
+- [Changelog](https://foxnose.net/docs/changelog)
+- [Blog](https://foxnose.net/blog)
+- [Security](https://foxnose.net/security)
+- [Compliance](https://foxnose.net/security)
+- [Privacy policy](https://foxnose.net/privacy-policy)
+
+## API Evangelist rating
+
+**Kin Score 51.3** — developing · rubric 0.25.0 · scored 2026-10-30
+
+| Facet | Score |
+|---|---|
+| Discoverability | 62.5 |
+| Contract quality | 54.7 |
+| Contract governance | 79.1 |
+| Operational transparency | 26.3 |
+| Developer ergonomics | 23.8 |
+| Access clarity | 65.3 |
+
+**Agent readiness 26.1** — agent-aware
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | bearer (partial credit) |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | partial |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | yes |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | paginated |
+| Operation Distinctiveness | — |
+
+**Regulatory alignment 19.6** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/foxnose-net/](https://apis.io/providers/foxnose-net/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for foxnose-net: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/foxnose-net/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
